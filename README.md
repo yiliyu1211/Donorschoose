@@ -9,6 +9,7 @@ This section contains all the files related to cleaning the data.
 - [text_cleaning](text_cleaning/text.ipynb)
   - Word2Vec
   - TF-IDF
+  - Bag of words
 
 ## Models
 
