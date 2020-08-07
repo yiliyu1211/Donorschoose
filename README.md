@@ -1,5 +1,3 @@
-# DonorsChoose
-
 # Predictive-Analytics
 
 This repository contains the data cleaning and algorithms for DonorsChoose.org. 
